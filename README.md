@@ -1,4 +1,4 @@
-# Breat-cancer-detection
+# Breast-cancer-detection
 
 This is a project for detection of breast cancer in women using Machine Learning Algorithms: Logistic Regression, Support Vector Machine and K Nearest Neightbours
 
